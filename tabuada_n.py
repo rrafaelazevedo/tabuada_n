@@ -1,0 +1,13 @@
+n = int(input('Digite o número que deseja obter a tabuada: '))
+nm1 = (n * 1)
+nm2 = (n * 2)
+nm3 = (n * 3)
+nm4 = (n * 4)
+nm5 = (n * 5)
+nm6 = (n * 6)
+nm7 = (n * 7)
+nm8 = (n * 8)
+nm9 = (n * 9)
+nm10 = (n * 10)
+print('Segue a tabuada do número {}: \n {} * 1 = {} \n {} * 2 = {} \n {} * 3 = {} \n {} * 4 = {} \n {} * 5 = {} \n {} * 6 = {} \n {} * 7 = {} \n {} * 8 = {} \n {} * 9 = {} \n {} * 10 = {}'.format(n, n, nm1, n, nm2, n, nm3, n, nm4, n, nm5, n, nm6, n, nm7, n, nm8, n, nm9, n, nm10))
+
